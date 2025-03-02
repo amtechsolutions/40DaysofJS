@@ -1,0 +1,1 @@
+document.getElementById('someDiv').innerText='Hi!! I am some Tect!!';
